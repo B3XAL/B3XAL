@@ -1,67 +1,54 @@
 <p align="center"><img src="https://media4.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=ecf05e47z82vdd5zbo7mi49yho989jjn6jaqt0um3dja2s48&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/></p>
 <p align="center">
+
+ <!-- # 💫 About Me:
+
+-->
+
+## 🌐 Socials:
 <a href="http://www.linkedin.com/in/julen-garrido-est%C3%A9vez"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<!--<p align="center">
-"<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
-<p align="center"><img src="https:" alt=""></p>
+</p> 
 
-<h1 align="center"> <img src="https://media0.giphy.com/media/tod3NKWchKrSMvLh7X/giphy.gif?cid=ecf05e47pq7cayw9009k2b1hztzmaofk26fzws11lhpimcgp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40"></h1>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)
+<!--
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 
+-->
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### 🧘‍♂️: &nbsp;About Me :
+# 📊 GitHub Stats:
+<!--
+![](https://github-readme-stats.vercel.app/api?username=B3XAL&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=B3XAL&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=B3XAL&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I am passionate about cybersecurity. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+<!--
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=B3XAL&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I am working as a Roboticist.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-B3XAL-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/julen-garrido-est%C3%A9vez)-->
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+-->
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=B3XAL&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!--
 ---
+[![](https://visitcount.itsvg.in/api?id=B3XAL&icon=2&color=1)](https://visitcount.itsvg.in)
+-->
 
-### 🛠 &nbsp;Languages and Tools :
-
-
-<!--<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;-->
-<span>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
-</span>
-<span>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
-</span>
-<span>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</span>
-
-
-
----
-
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=B3XAL&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B3XAL&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-<!--### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https:)
-- [How to Implement Memoization in React to Improve Performance](https:)
-- [How to Create an Impressive GitHub Profile README](https:)<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
