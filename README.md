@@ -25,33 +25,7 @@ Web pentester focused on vulnerability research and web application security. I 
 
 ## CVEs
 
-| CVE | CVSS | Type |
-|-----|------|------|
-| [CVE-2025-2199](https://nvd.nist.gov/vuln/detail/CVE-2025-2199) | 9.3 | SQL Injection |
-| [CVE-2025-41375](https://nvd.nist.gov/vuln/detail/CVE-2025-41375) | 9.3 | SQL Injection |
-| [CVE-2025-2200](https://nvd.nist.gov/vuln/detail/CVE-2025-2200) | 9.3 | SQL Injection |
-| [CVE-2026-1435](https://nvd.nist.gov/vuln/detail/CVE-2026-1435) | 9.1 | Insufficient Session Expiration |
-| [CVE-2025-2201](https://nvd.nist.gov/vuln/detail/CVE-2025-2201) | 7.1 | Broken Access Control |
-| [CVE-2025-2202](https://nvd.nist.gov/vuln/detail/CVE-2025-2202) | 7.1 | Broken Access Control |
-| [CVE-2026-1436](https://nvd.nist.gov/vuln/detail/CVE-2026-1436) | 7.0 | Improper Access Control |
-| [CVE-2025-41082](https://nvd.nist.gov/vuln/detail/CVE-2025-41082) | 6.9 | HTTP Request Smuggling (CL.0) |
-| [CVE-2025-41074](https://nvd.nist.gov/vuln/detail/CVE-2025-41074) | 6.9 | Infinite Loop |
-| [CVE-2025-41075](https://nvd.nist.gov/vuln/detail/CVE-2025-41075) | 6.9 | Infinite Loop |
-| [CVE-2025-41076](https://nvd.nist.gov/vuln/detail/CVE-2025-41076) | 6.9 | Information Exposure |
-| [CVE-2026-1437](https://nvd.nist.gov/vuln/detail/CVE-2026-1437) | 6.1 | Cross-Site Scripting |
-| [CVE-2026-1438](https://nvd.nist.gov/vuln/detail/CVE-2026-1438) | 6.1 | Cross-Site Scripting |
-| [CVE-2026-1439](https://nvd.nist.gov/vuln/detail/CVE-2026-1439) | 6.1 | Cross-Site Scripting |
-| [CVE-2026-1440](https://nvd.nist.gov/vuln/detail/CVE-2026-1440) | 6.1 | Cross-Site Scripting |
-| [CVE-2026-1441](https://nvd.nist.gov/vuln/detail/CVE-2026-1441) | 6.1 | Cross-Site Scripting |
-| [CVE-2025-41376](https://nvd.nist.gov/vuln/detail/CVE-2025-41376) | 5.1 | CRLF Injection |
-| [CVE-2025-41083](https://nvd.nist.gov/vuln/detail/CVE-2025-41083) | 5.1 | Host Header Injection |
-| [CVE-2025-3026](https://nvd.nist.gov/vuln/detail/CVE-2025-3026) | 5.1 | Host Header Injection |
-| [CVE-2025-3027](https://nvd.nist.gov/vuln/detail/CVE-2025-3027) | 5.1 | Open Redirect |
-| [CVE-2025-40630](https://nvd.nist.gov/vuln/detail/CVE-2025-40630) | 5.1 | Open Redirect |
-| [CVE-2025-40710](https://nvd.nist.gov/vuln/detail/CVE-2025-40710) | 2.3 | Host Header Injection |
-| [CVE-2025-40631](https://nvd.nist.gov/vuln/detail/CVE-2025-40631) | 2.0 | Host Header Injection |
-| [CVE-2025-40632](https://nvd.nist.gov/vuln/detail/CVE-2025-40632) | 2.0 | Cross-Site Scripting |
-
+![CVEs](https://raw.githubusercontent.com/B3XAL/cves/main/cves.svg)
 
 ---
 
