@@ -1,54 +1,78 @@
-<p align="center"><img src="https://media4.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=ecf05e47z82vdd5zbo7mi49yho989jjn6jaqt0um3dja2s48&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200"/></p>
-<p align="center">
+<div align="center">
 
- <!-- # 💫 About Me:
+**Web Pentester · CVE Researcher · Red Team**
 
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/julen-garrido-est%C3%A9vez)
+&nbsp;
+[![BSCP](https://img.shields.io/badge/BSCP-orange?style=flat-square)](https://portswigger.net/web-security/certification)
+[![MCRTA](https://img.shields.io/badge/MCRTA-red?style=flat-square)]()
+[![eJPT](https://img.shields.io/badge/eJPT-blue?style=flat-square)]()
+[![CPHE](https://img.shields.io/badge/CPHE-purple?style=flat-square)]()
+[![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)]()
+[![CVEx24](https://img.shields.io/badge/CVEx24-darkgreen?style=flat-square)]()
 
-## 🌐 Socials:
-<a href="http://www.linkedin.com/in/julen-garrido-est%C3%A9vez"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p> 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)
-<!--
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 
--->
-
-
-# 📊 GitHub Stats:
-<!--
-![](https://github-readme-stats.vercel.app/api?username=B3XAL&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
--->
-![](https://github-readme-streak-stats.herokuapp.com/?user=B3XAL&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=B3XAL&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=B3XAL&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
--->
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=B3XAL&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!--
 ---
-[![](https://visitcount.itsvg.in/api?id=B3XAL&icon=2&color=1)](https://visitcount.itsvg.in)
--->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## whoami
+
+Web pentester focused on vulnerability research and web application security. I find bugs, report them, and build tools to make the process faster.
+
+**24 CVEs published** across SQL Injection, XSS, Access Control, HTTP Request Smuggling and more.
+
+---
+
+## CVEs
+
+| CVE | CVSS | Type |
+|-----|------|------|
+| [CVE-2025-2199](https://nvd.nist.gov/vuln/detail/CVE-2025-2199) | 9.3 | SQL Injection |
+| [CVE-2025-41375](https://nvd.nist.gov/vuln/detail/CVE-2025-41375) | 9.3 | SQL Injection |
+| [CVE-2025-2200](https://nvd.nist.gov/vuln/detail/CVE-2025-2200) | 9.3 | SQL Injection |
+| [CVE-2026-1435](https://nvd.nist.gov/vuln/detail/CVE-2026-1435) | 9.1 | Insufficient Session Expiration |
+| [CVE-2025-2201](https://nvd.nist.gov/vuln/detail/CVE-2025-2201) | 7.1 | Broken Access Control |
+| [CVE-2025-2202](https://nvd.nist.gov/vuln/detail/CVE-2025-2202) | 7.1 | Broken Access Control |
+| [CVE-2026-1436](https://nvd.nist.gov/vuln/detail/CVE-2026-1436) | 7.0 | Improper Access Control |
+| [CVE-2025-41082](https://nvd.nist.gov/vuln/detail/CVE-2025-41082) | 6.9 | HTTP Request Smuggling (CL.0) |
+| [CVE-2025-41074](https://nvd.nist.gov/vuln/detail/CVE-2025-41074) | 6.9 | Infinite Loop |
+| [CVE-2025-41075](https://nvd.nist.gov/vuln/detail/CVE-2025-41075) | 6.9 | Infinite Loop |
+| [CVE-2025-41076](https://nvd.nist.gov/vuln/detail/CVE-2025-41076) | 6.9 | Information Exposure |
+| [CVE-2026-1437](https://nvd.nist.gov/vuln/detail/CVE-2026-1437) | 6.1 | Cross-Site Scripting |
+| [CVE-2026-1438](https://nvd.nist.gov/vuln/detail/CVE-2026-1438) | 6.1 | Cross-Site Scripting |
+| [CVE-2026-1439](https://nvd.nist.gov/vuln/detail/CVE-2026-1439) | 6.1 | Cross-Site Scripting |
+| [CVE-2026-1440](https://nvd.nist.gov/vuln/detail/CVE-2026-1440) | 6.1 | Cross-Site Scripting |
+| [CVE-2026-1441](https://nvd.nist.gov/vuln/detail/CVE-2026-1441) | 6.1 | Cross-Site Scripting |
+| [CVE-2025-41376](https://nvd.nist.gov/vuln/detail/CVE-2025-41376) | 5.1 | CRLF Injection |
+| [CVE-2025-41083](https://nvd.nist.gov/vuln/detail/CVE-2025-41083) | 5.1 | Host Header Injection |
+| [CVE-2025-3026](https://nvd.nist.gov/vuln/detail/CVE-2025-3026) | 5.1 | Host Header Injection |
+| [CVE-2025-3027](https://nvd.nist.gov/vuln/detail/CVE-2025-3027) | 5.1 | Open Redirect |
+| [CVE-2025-40630](https://nvd.nist.gov/vuln/detail/CVE-2025-40630) | 5.1 | Open Redirect |
+| [CVE-2025-40710](https://nvd.nist.gov/vuln/detail/CVE-2025-40710) | 2.3 | Host Header Injection |
+| [CVE-2025-40631](https://nvd.nist.gov/vuln/detail/CVE-2025-40631) | 2.0 | Host Header Injection |
+| [CVE-2025-40632](https://nvd.nist.gov/vuln/detail/CVE-2025-40632) | 2.0 | Cross-Site Scripting |
+
+
+---
+
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-red?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B3XAL&theme=dark&hide_border=true" width="420"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B3XAL&theme=dark&hide_border=true&layout=compact" width="310"/>
+</p>
+
